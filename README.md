@@ -20,3 +20,9 @@ Installs Brave for Ubuntu and Ubuntu Based Distros
 ``` shell
 curl -s https://raw.githubusercontent.com/bthehacker/QuickScripts/main/scripts/Install-Brave.sh | sh
  ```
+#### kbtr.sh
+Installs arkbtr and frkbtr
+
+``` shell
+curl -s https://raw.githubusercontent.com/bthehacker/QuickScripts/main/scripts/kbtr.sh | sudo sh
+```
