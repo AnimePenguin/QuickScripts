@@ -26,3 +26,9 @@ Installs arkbtr and frkbtr
 ``` shell
 curl -s https://raw.githubusercontent.com/bthehacker/QuickScripts/main/scripts/kbtr.sh | sudo sh
 ```
+#### doom-emacs.sh
+Installs Doom-Emacs for Ubuntu
+
+``` shell
+curl -s https://raw.githubusercontent.com/bthehacker/QuickScripts/main/scripts/doom-emacs.sh | sudo sh
+```
