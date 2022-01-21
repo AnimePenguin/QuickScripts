@@ -1,1 +1,1 @@
-[`link`](../README.md)
+[`link`](README.md)
